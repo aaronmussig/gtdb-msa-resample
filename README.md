@@ -11,7 +11,7 @@ It is strongly recommended to install this program in a [new conda](https://docs
 This program requires **Python 3.8** or later.
 
 ```bash
-python -m pip install https://github.com/aaronmussig/gtdb-msa-resample/.../.zip
+python -m pip install https://github.com/aaronmussig/gtdb-msa-resample/archive/refs/tags/v0.0.1.zip
 ```
 
 ## Usage
