@@ -1,0 +1,14 @@
+[project]
+name = "gtdb-msa-resample"
+version = "0.0.1"
+dependencies = [
+    "typer>=0.12.5",
+]
+requires-python = ">=3.8"
+authors = [
+    { name = "Aaron Mussig", email = "aaronmussig@gmail.com" },
+]
+readme = "README.md"
+
+[project.scripts]
+gmr = "gmr:__main__.app"
